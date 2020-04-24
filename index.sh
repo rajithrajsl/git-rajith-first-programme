@@ -1,3 +1,3 @@
 #! /bin/bash
 echo "hello"
-echo "sh branch"
+echo "Rajith is Great"
